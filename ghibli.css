@@ -1,0 +1,27 @@
+body{
+    background-image: url('./assets/Ghibli.jpg');
+    text-align: center;
+    font-family: garamond;
+    color: white;
+    text-shadow: 1px 1px black;
+    margin-left: 30%;
+    margin-right: 30%
+}
+
+button{
+    border-radius: 12px;
+    border: black;
+    padding: 14px 25px;
+    background: lavenderblush;
+    font-family: garamond;
+    text-size-adjust: relative;
+
+}
+button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+.description{
+    background: rgba(128,128,128,.70);
+    
+}
