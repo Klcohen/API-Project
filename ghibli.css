@@ -1,5 +1,8 @@
 body{
     background-image: url('./assets/Ghibli.jpg');
+
+}
+.bod{
     text-align: center;
     font-family: garamond;
     color: white;
@@ -7,7 +10,6 @@ body{
     margin-left: 30%;
     margin-right: 30%
 }
-
 button{
     border-radius: 12px;
     border: black;
@@ -24,4 +26,10 @@ button:hover {
 .description{
     background: rgba(128,128,128,.70);
     
+}
+
+footer{
+    margin-left: -5%;
+    padding: 0%;
+    white-space: nowrap;
 }
